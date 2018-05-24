@@ -53,12 +53,12 @@
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-bigquery</artifactId>
-      <version>1.29.0</version>
+      <version>1.30.0</version>
     </dependency>
     <dependency>
       <groupId>com.google.cloud</groupId>
       <artifactId>google-cloud-monitoring</artifactId>
-      <version>0.47.0-beta</version>
+      <version>0.48.0-beta</version>
     </dependency>
     <!-- [END dependencies ] -->
 
